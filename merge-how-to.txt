@@ -1,0 +1,11 @@
+Получение ветки с сервера:
+	1) git fetch
+	2) git checkout branch_name (создание локальной копии ветки)
+
+Слияние веток:
+	1) git checkout branch_merge_to
+	2) git merge branch_name
+
+После слияния:
+	1) git push
+	2) git log
